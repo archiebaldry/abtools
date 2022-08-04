@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "item": "abtools:diamond_paxel"
+  },
+  "result": {
+    "item": "abtools:netherite_paxel"
+  }
+}
