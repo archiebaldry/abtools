@@ -13,7 +13,7 @@
     "sources": "https://github.com/archiebaldry/abtools"
   },
 
-  "license": "CC0-1.0",
+  "license": "LGPL-3",
   "icon": "assets/abtools/icon.png",
 
   "environment": "*",
